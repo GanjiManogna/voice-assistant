@@ -1,5 +1,5 @@
 
-# Voice Assistant
+# Voice Assistant Using AI
 ![image](https://github.com/user-attachments/assets/4802f509-4187-444c-8755-b21fd568b3fb)
 
 This repository contains a simple voice assistant project implemented in Python using a Jupyter Notebook. The assistant can recognize voice commands and perform basic tasks, demonstrating the use of speech recognition and text-to-speech technologies.
