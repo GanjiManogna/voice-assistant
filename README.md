@@ -1,5 +1,6 @@
 
 # Voice Assistant
+![image](https://github.com/user-attachments/assets/4802f509-4187-444c-8755-b21fd568b3fb)
 
 This repository contains a simple voice assistant project implemented in Python using a Jupyter Notebook. The assistant can recognize voice commands and perform basic tasks, demonstrating the use of speech recognition and text-to-speech technologies.
 
@@ -58,8 +59,6 @@ pip install SpeechRecognition pyttsx3 pyaudio
 - Integrate with other APIs or services to expand your assistant’s capabilities.
 
 ---
-
-## Disclaimer
 
 This project is for educational purposes and as a demonstration of basic voice assistant functionality.  
 Accuracy and performance may vary depending on your system and microphone quality.
